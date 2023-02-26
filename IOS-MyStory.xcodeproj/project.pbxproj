@@ -13,6 +13,8 @@
 		16EC245929ABB9A500D9C90A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16EC245729ABB9A500D9C90A /* Main.storyboard */; };
 		16EC245B29ABB9A600D9C90A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16EC245A29ABB9A600D9C90A /* Assets.xcassets */; };
 		16EC245E29ABB9A600D9C90A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16EC245C29ABB9A600D9C90A /* LaunchScreen.storyboard */; };
+		16EC246629ABBBBF00D9C90A /* Ironman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EC246529ABBBBF00D9C90A /* Ironman.swift */; };
+		16EC246829ABEB3800D9C90A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EC246729ABEB3800D9C90A /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		16EC245A29ABB9A600D9C90A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16EC245D29ABB9A600D9C90A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16EC245F29ABB9A600D9C90A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16EC246529ABBBBF00D9C90A /* Ironman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ironman.swift; sourceTree = "<group>"; };
+		16EC246729ABEB3800D9C90A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +61,10 @@
 			isa = PBXGroup;
 			children = (
 				16EC245129ABB9A500D9C90A /* AppDelegate.swift */,
+				16EC246729ABEB3800D9C90A /* DetailViewController.swift */,
 				16EC245329ABB9A500D9C90A /* SceneDelegate.swift */,
 				16EC245529ABB9A500D9C90A /* ViewController.swift */,
+				16EC246529ABBBBF00D9C90A /* Ironman.swift */,
 				16EC245729ABB9A500D9C90A /* Main.storyboard */,
 				16EC245A29ABB9A600D9C90A /* Assets.xcassets */,
 				16EC245C29ABB9A600D9C90A /* LaunchScreen.storyboard */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16EC246629ABBBBF00D9C90A /* Ironman.swift in Sources */,
 				16EC245629ABB9A500D9C90A /* ViewController.swift in Sources */,
+				16EC246829ABEB3800D9C90A /* DetailViewController.swift in Sources */,
 				16EC245229ABB9A500D9C90A /* AppDelegate.swift in Sources */,
 				16EC245429ABB9A500D9C90A /* SceneDelegate.swift in Sources */,
 			);
