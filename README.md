@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/RaV0q5wPrlrutcdkzX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/RaV0q5wPrlrutcdkzX/giphy-downsized.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
